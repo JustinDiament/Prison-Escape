@@ -1,2 +1,4 @@
-# CSE-CYOA
-See instructions on the submitted presentation for assistance
+Prison Escape! 
+By Justin Diament and Gustav Hansen 
+
+To play the game, download the repository and run main.py. Good luck!
